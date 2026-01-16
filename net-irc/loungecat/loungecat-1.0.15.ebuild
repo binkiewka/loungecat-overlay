@@ -38,6 +38,7 @@ src_prepare() {
 
 src_compile() {
     export JAVA_HOME=$(java-config -g JAVA_HOME)
+    export GRADLE_USER_HOME="${T}/gradle"
     
     # Run the distribution task
     # This downloads dependencies and Gradle if needed
