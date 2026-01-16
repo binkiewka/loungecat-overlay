@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+    <maintainer type="person">
+        <email>loungecat@example.com</email>
+        <name>LoungeCat Maintainer</name>
+    </maintainer>
+    <upstream>
+        <remote-id type="github">binkiewka/LoungeCat-Desktop</remote-id>
+    </upstream>
+</pkgmetadata>
